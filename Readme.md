@@ -12,4 +12,5 @@
 6. https://www.udemy.com/course/learn-android-application-development-y/
 7. https://developer.android.com/courses/android-basics-kotlin/course
 8. https://www.raywenderlich.com/
-9. https://www.upgrad.com/blog/android-project-ideas-topics-for-beginners/
+9. [Free 11 hr lecture](https://www.youtube.com/watch?v=fis26HvvDII)
+10. https://www.upgrad.com/blog/android-project-ideas-topics-for-beginners/
