@@ -15,3 +15,4 @@
 9. [Free 11 hr lecture](https://www.youtube.com/watch?v=fis26HvvDII)
 10. https://www.upgrad.com/blog/android-project-ideas-topics-for-beginners/
 11.http://www.dre.vanderbilt.edu/
+12. https://www.lukaslechner.com/
