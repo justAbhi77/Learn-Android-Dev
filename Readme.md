@@ -11,3 +11,4 @@
 5. https://www.javatpoint.com/android-tutorial
 6. https://www.udemy.com/course/learn-android-application-development-y/
 7. https://developer.android.com/courses/android-basics-kotlin/course
+8. https://www.raywenderlich.com/
