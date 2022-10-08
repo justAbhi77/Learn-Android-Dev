@@ -21,3 +21,4 @@
 15. https://www.codewithharry.com/videos/android-tutorial-in-hindi-with-notes/
 16. https://kotlinlang.org/docs/books.html
 17. https://flutter.dev/
+18. https://docs.unity3d.com/ScriptReference/PlayerSettings.Android.html
