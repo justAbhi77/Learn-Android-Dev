@@ -24,7 +24,6 @@
 17. https://docs.unity3d.com/ScriptReference/PlayerSettings.Android.html
 18. https://www.youtube.com/watch?v=fis26HvvDII
 19. https://www.coursera.org/specializations/android-app-development
-20. https://www.edx.org/learn/android-development
 21. https://www.w3schools.in/android/tutorials/
 22. https://www.freecodecamp.org/learn/
 23. https://www.youtube.com/watch?v=BCSlZIUj18Y
